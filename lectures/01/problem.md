@@ -27,7 +27,7 @@
 
 GitHub の **Settings → Codespaces → Secrets → New secret** で次のように登録します。
 
-- Name: `GEMINI_API_KEY`
+- Name: `GEMINIAPI`
 - Value: 手順2のキー
 - Repository access: **自分の fork** を選ぶ
 
